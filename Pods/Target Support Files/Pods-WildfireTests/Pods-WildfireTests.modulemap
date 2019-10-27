@@ -1,0 +1,6 @@
+framework module Pods_WildfireTests {
+  umbrella header "Pods-WildfireTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
