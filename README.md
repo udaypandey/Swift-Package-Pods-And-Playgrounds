@@ -40,10 +40,9 @@ I need to try with dynamic frameworks and see if that works.
 
 - [x] xCode Framework with no external dependencies
 - [x] CocoaPods Framework
-- [] Swift Package with no external dependencies
+- [ ] Swift Package with no external dependencies
 - [ ] Swift Package with external dependency (resolved using Swift PM)
 - [ ] xCode Static Library
-
 
 ## Next Steps
 
