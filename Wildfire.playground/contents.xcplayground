@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Import Swift Package'/>
+        <page name='Import xCode Framework'/>
+        <page name='Import Pods Framework'/>
+        <page name='Import xCode Static Library'/>
+    </pages>
+</playground>
